@@ -17,3 +17,4 @@ public class Loan {
  public Integer getTenureMonths(){return tenureMonths;} public void setTenureMonths(Integer v){tenureMonths=v;}
  public String getStatus(){return status;} public void setStatus(String v){status=v;}
 }
+//a
