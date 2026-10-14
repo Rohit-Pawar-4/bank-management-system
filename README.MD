@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # StateBank Full-Stack Banking Management Demo
 
 A local development project containing:
